@@ -1,0 +1,12 @@
+{
+	"name": "react-inifinit-scroller",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:joeynimu/react-inifinit-scroller.git",
+	"author": "Joe Ng'ethe",
+	"license": "MIT",
+	"dependencies": {
+		"prop-types": "^15.6.2",
+		"react": "^16.5.1"
+	}
+}
